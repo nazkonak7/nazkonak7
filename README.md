@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**nazkonak7/nazkonak7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Sude Naz Konak, a Junior Software Engineer passionate about Machine Learning, Artificial Intelligence, and Data Science.
 
-Here are some ideas to get you started:
+🎓 Graduated from OSTİM Technical University, Software Engineering (English).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently working on ERP systems and integrating AI-powered solutions.
+
+📊 Interested in developing data-driven applications and exploring ML/AI for business intelligence.
+
+🚀 Actively preparing for graduate studies in Artificial Intelligence & Data Engineering.
+
+🔗 Connect with me
+
+https://www.linkedin.com/in/naz-konak-68a078255/
